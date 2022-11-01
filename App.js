@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     // backgroundColor: "#000",
     // display: 'flex',
     // justifyContent: "space-evenly",
-
+    //hey
 
   }
 });
